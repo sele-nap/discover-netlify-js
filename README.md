@@ -8,4 +8,4 @@
 
 ## Déploiement
 
-* Lien vers le site déployé sur Netlify : 
+* Lien vers le site déployé sur Netlify : git@github.com:sele-nap/discover-netlify-js.git
