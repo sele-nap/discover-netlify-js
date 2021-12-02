@@ -8,4 +8,4 @@
 
 ## Déploiement
 
-* Lien vers le site déployé sur Netlify : git@github.com:sele-nap/discover-netlify-js.git
+* Lien vers le site déployé sur Netlify : https://app.netlify.com/sites/cranky-dijkstra-07de2b/overview
