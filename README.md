@@ -8,4 +8,4 @@
 
 ## Déploiement
 
-* Lien vers le site déployé sur Netlify : https://app.netlify.com/sites/cranky-dijkstra-07de2b/overview
+* Lien vers le site déployé sur Netlify : https://cranky-dijkstra-07de2b.netlify.app/
